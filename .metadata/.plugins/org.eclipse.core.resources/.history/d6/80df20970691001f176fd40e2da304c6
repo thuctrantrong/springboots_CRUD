@@ -1,0 +1,5 @@
+package vn.iostart.configs;
+
+public class DBConnect {
+
+}

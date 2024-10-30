@@ -1,0 +1,11 @@
+spring.application.name=demo3_springboots3
+
+server.port=9090
+
+spring.mvc.view.prefix=/WEB-INF/views/
+spring.mvc.view.suffix=.jsp
+
+#	spring.datasource.url = "jdbc:sqlserver://localhost\\MSSQLSERVER;databaseName=LaptrinhWeb";
+#	spring.datasource.username= "thuc";
+#	spring.datasource.password= "1";
+#	spring.datasource.driverClassName= Connection conn ; 

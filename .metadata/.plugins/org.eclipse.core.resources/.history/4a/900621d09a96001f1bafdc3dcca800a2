@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+	<!-- header.html -->
+<div th:fragment="header">
+   <div th:fragment="header">
+    <!-- Header content here -->
+    <img src="/upload/anh.jpg" alt="My Image" width = "300px" height = "auto"/>
+</div>
+</div>
+	
+</head>
+<body>
+	
+</body>
+</html>
